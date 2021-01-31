@@ -7,7 +7,7 @@ package bookClasses;
 import javax.sound.sampled.*;
 import java.io.*;
 import java.util.Vector;
-import javazoom.jl.converter.*;
+//import javazoom.jl.converter.*;
 
 /**
  * The <code>SimpleSound</code> class is an implementation of the
